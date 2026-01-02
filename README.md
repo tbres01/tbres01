@@ -72,29 +72,13 @@ This Detection Lab project was designed to establish a controlled environment fo
 
 ## Certifications
 
-## Certifications
-
 ### Oracle Cloud Infrastructure (OCI) – 2025
 <div>
-  <img src="https://img.shields.io/badge/-OCI_Architect_Associate-FF0000?&style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OCI_DevOps_Professional-FF0000?&style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OCI_AI_Foundations-FF0000?&style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OCI_Foundations-FF0000?&style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OCI_Data_Management_Foundations-FF0000?&style=for-the-badge&logo=oracle&logoColor=white" />
-</div>
-
-### Academic Certifications
-<div>
-  <img src="https://img.shields.io/badge/-Certificate_in_Cybersecurity-SNHU-4B0F6B?&style=for-the-badge&logo=graduation-cap&logoColor=white" />
-</div>
-
-### Oracle Cloud Infrastructure (OCI) – 2025
-<div>
-  <img src="https://img.shields.io/badge/-OCI_Architect_Associate-FF0000?&style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OCI_DevOps_Professional-FF0000?&style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OCI_AI_Foundations-FF0000?&style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OCI_Foundations-FF0000?&style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OCI_Data_Management_Foundations-FF0000?&style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/OCI%20Architect%20Associate-Oracle-1F77B4?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/OCI%20DevOps%20Professional-Oracle-FF7F0E?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/OCI%20AI%20Foundations-Oracle-2CA02C?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/OCI%20Foundations-Oracle-D62728?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/OCI%20Data%20Management%20Foundations-Oracle-9467BD?style=for-the-badge&logo=oracle&logoColor=white" />
 </div>
 
 ### Academic Certifications
